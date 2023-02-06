@@ -1,4 +1,4 @@
-### Hello, i`m Evgeny
+### Hello, i`m Evgeniy
 
 ---
 #### I really like to program useful and just funny things. But most of all I am interested in the web and AI. 
