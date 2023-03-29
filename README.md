@@ -1,7 +1,8 @@
-### Hello, i`m Evgeniy
+### 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3500&pause=1000&color=bfff80&lines=Hi,+I`m+Evgeniy,+junior+web+dev.;I+just+program+useful+things.)](https://git.io/typing-svg)
 
 ---
-#### I really like to program useful and just funny things. But most of all I am interested in the web and AI. 
+
 Below you can see my skills:
 
 Frontend:
