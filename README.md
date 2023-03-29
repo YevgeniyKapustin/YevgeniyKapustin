@@ -1,5 +1,5 @@
 ### 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3500&pause=1000&color=bfff80&lines=Hi,+I`m+Evgeniy,+junior+web+dev.;I+just+program+useful+things.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3500&pause=1000&color=bdd367&lines=Hi,+I`m+Evgeniy,+junior+web+dev.;I+just+program+useful+things.)](https://git.io/typing-svg)
 
 ---
 
