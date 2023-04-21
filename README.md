@@ -31,7 +31,7 @@
 
 ##### Others:
 
-<img align='left' alt='Git' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'/>
+<img align='left' alt='Git' height='32px' src='https://user-images.githubusercontent.com/106178214/233634416-25d5ed4d-646f-4102-a43f-377e2b1072f4.png'/>
 <img align='left' alt='Docker' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png'/>
 <img align='left' alt='Nginx' height='32px' src='https://img.icons8.com/color/512/nginx.png'/>
 <img align='left' alt='Kivy' height='32px' src='https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png'/>
