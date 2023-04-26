@@ -26,6 +26,7 @@
 
 <img align='left' alt='MySQL' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png'/>
 <img align='left' alt='PostgresSQL' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'/>
+<img align='left' alt='redis' height='32px' src='https://github.com/redis/jedis/raw/master/redis-logo-full-color-rgb.png'/>
 
 <br/><br/><br/>
 
@@ -35,6 +36,5 @@
 <img align='left' alt='Docker' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png'/>
 <img align='left' alt='Nginx' height='32px' src='https://img.icons8.com/color/512/nginx.png'/>
 <img align='left' alt='Kivy' height='32px' src='https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png'/>
-<img align='left' alt='redis' height='32px' src='https://github.com/redis/jedis/raw/master/redis-logo-full-color-rgb.png'/>
 
 <br/><br/><br/>
