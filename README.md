@@ -34,7 +34,6 @@
 
 <img align='left' alt='Git' height='32px' src='https://user-images.githubusercontent.com/106178214/233634416-25d5ed4d-646f-4102-a43f-377e2b1072f4.png'/>
 <img align='left' alt='Docker' height='32px' src='https://avatars.githubusercontent.com/u/7739233?s=48&v=4'/>
-<img align='left' alt='Nginx' height='32px' src='https://img.icons8.com/color/512/nginx.png'/>
 <img align='left' alt='Kivy' height='32px' src='https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png'/>
 
 <br/><br/><br/>
