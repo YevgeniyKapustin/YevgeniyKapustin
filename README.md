@@ -1,6 +1,6 @@
 ### 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&height=60&width=600&duration=3500&pause=1500&color=bdd367&lines=Hi,+I`m+Yevgeniy,+junior+web+dev.;I+just+program+useful+things.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&height=60&width=600&duration=3500&pause=1500&color=f8b9aa&lines=Hi,+I`m+Yevgeniy,+python+dev.;I+just+program+useful+things.)](https://git.io/typing-svg)
 
 ---
 
