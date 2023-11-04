@@ -1,12 +1,5 @@
 ### 
 
-## Hi, i`m Yevgeniy :3
-I work as a python developer and mentor.<br/>
-I love cats and putting pretty pictures on my avatar.<br/>
-For other details you can contact me using the links.<br/>
-
----
-
 ### Below you can see my skills:
 
 ##### Frontend:
