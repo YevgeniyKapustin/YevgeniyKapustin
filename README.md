@@ -1,6 +1,9 @@
 ### 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&height=60&width=600&duration=3500&pause=1500&color=f8b9aa&lines=Hi,+I`m+Yevgeniy,+python+dev.;I+just+program+useful+things.)](https://git.io/typing-svg)
+### Hi, i`m Yevgeniy :3<br/>
+I work as a python developer and mentor.<br/>
+I love cats and putting pretty pictures on my avatar.<br/>
+Аor other details you can contact me using the links.<br/>
 
 ---
 
