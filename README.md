@@ -1,8 +1,9 @@
-
+![kNlMufI3kY4](https://github.com/YevgeniyKapustin/YevgeniyKapustin/assets/106178214/9943f3db-2b2b-4447-b877-639befdbd934)
 
 ### 
 
 ### Below you can see my skills:
+
 
 
 
@@ -31,4 +32,3 @@
 <img align='left' alt='CSS' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/>
 
 <br/><br/><br/>
-![kNlMufI3kY4](https://github.com/YevgeniyKapustin/YevgeniyKapustin/assets/106178214/604e3286-e07c-4939-a61b-1e13cc5103c1)
