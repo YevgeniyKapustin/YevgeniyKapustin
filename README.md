@@ -1,4 +1,4 @@
-![kNlMufI3kY4](https://github.com/YevgeniyKapustin/YevgeniyKapustin/assets/106178214/9943f3db-2b2b-4447-b877-639befdbd934)
+![_2771b9be-0f31-4295-8bbb-77dd53ffc882](https://github.com/YevgeniyKapustin/YevgeniyKapustin/assets/106178214/40df3134-49c7-4f43-bf4e-5633ccd2f718)
 
 ### 
 
