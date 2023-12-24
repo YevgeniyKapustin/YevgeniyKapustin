@@ -1,6 +1,7 @@
-![_2771b9be-0f31-4295-8bbb-77dd53ffc882](https://github.com/YevgeniyKapustin/YevgeniyKapustin/assets/106178214/40df3134-49c7-4f43-bf4e-5633ccd2f718)
+![gif-christmas-tree-17](https://github.com/YevgeniyKapustin/YevgeniyKapustin/assets/106178214/451e84f0-2da1-4fad-a5d4-da1e4faccfc2)
 
 ### 
+
 
 ### Below you can see my skills:
 
