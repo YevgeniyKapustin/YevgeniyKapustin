@@ -1,5 +1,3 @@
-![gif-christmas-tree-17](https://github.com/YevgeniyKapustin/YevgeniyKapustin/assets/106178214/451e84f0-2da1-4fad-a5d4-da1e4faccfc2)
-
 ### 
 
 
