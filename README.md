@@ -25,5 +25,3 @@
 <img align='left' alt='celery' height='32px' src='https://avatars.githubusercontent.com/u/319983?s=48&v=4'/>
 
 <br/><br/><br/>
-
-##### Unfortunately, there isn’t much of a good portfolio, but some old educational projects remain
