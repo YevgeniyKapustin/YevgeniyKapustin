@@ -23,7 +23,7 @@
 <img align='left' alt='Kivy' height='32px' src='https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png'/>
 <img align='left' alt='HTML' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/>
 <img align='left' alt='CSS' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/>
-<img align='left' alt='celery' height='32px' src='https://avatars.githubusercontent.com/u/319983?s=48&v=4'/>
-
+<img align='left' alt='Celery' height='32px' src='https://avatars.githubusercontent.com/u/319983?s=48&v=4'/>
+<img align='left' alt='RabbitMQ' height='32px' src='https://camo.githubusercontent.com/e420b6a2243184ba01fc92e2eb516cc077102a2ec20a473ffbe39a210369959c/68747470733a2f2f68657276652e6265726175642e696f2f696d616765732f626c6f672f7261626269746d712e706e67'/>
 
 <br/><br/><br/>
