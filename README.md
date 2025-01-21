@@ -20,7 +20,6 @@
 
 <img align='left' alt='Git' height='32px' src='https://user-images.githubusercontent.com/106178214/233634416-25d5ed4d-646f-4102-a43f-377e2b1072f4.png'/>
 <img align='left' alt='Docker' height='32px' src='https://avatars.githubusercontent.com/u/7739233?s=48&v=4'/>
-<img align='left' alt='Kivy' height='32px' src='https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png'/>
 <img align='left' alt='HTML' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/>
 <img align='left' alt='CSS' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/>
 <img align='left' alt='Celery' height='32px' src='https://avatars.githubusercontent.com/u/319983?s=48&v=4'/>
